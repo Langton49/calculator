@@ -9,7 +9,10 @@
       "env": {
         "BRAVE_API_KEY": "BSAAn_yh8k7p9UlMokv4YxB9Jucs9Eb"
       },
-      "disabled": false
+      "disabled": false,
+      "autoApprove": [
+        "brave_web_search"
+      ]
     }
   }
 }
